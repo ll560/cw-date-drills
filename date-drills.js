@@ -1,5 +1,5 @@
 // 1)  Create an example of using Date ()
-let today = Date();
+let today = Date();    
 console.log(today);
 
 // 2) How would you get just today's date using getDate()? Write the code you would need to get the result. How would it show on the console?
